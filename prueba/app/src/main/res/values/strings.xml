@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">prueba</string>
+    <string name="no_image">No Image</string>
+    <string name="nested_scroll_text">¿Que es bubble tea? Es el nombre en inglés de una
+        bebida conocida también como té de burbujas o té de perlas, y se trata de una
+        infusión dulce aromatizada cuyo origen se encuentra en Taiwán. Su base es un té
+        mezclado con fruta, jarabe de fruta, yogur o leche, que se agita para crear una espuma.
+        Además se le agregan bolitas o perlas de tapioca, conocidas como boba (de ahí su nombre).
+        Las perlas también suelen ser de gelatina, que se asientan en el fondo de la bebida.
+        Los tés más usuales son el rojo, el verde y el oolong.
+    </string>
+    <string name="selected_item">Selected item:</string>
+</resources>
+
